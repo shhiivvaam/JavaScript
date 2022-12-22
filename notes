@@ -1,0 +1,7 @@
+<!-- <script>
+    let textabout = document.getElementById('textabout')
+    console.log("this is my about section : ",textabout)
+    textabout.innerText = "Shivam is here"
+</script> -->
+
+

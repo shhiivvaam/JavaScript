@@ -1,0 +1,16 @@
+[
+    {
+        "Model" : "Scorpio",
+        "Seats" : 5,
+        "Color" : "Black",
+        "Gears" : 5,
+        "BackCamera" : false
+    },
+    {
+        "Model" : "Eartiga",
+        "Seats" : 7,
+        "Color" : "Blue",
+        "Gears" : 5,
+        "BackCamera" : true
+    }
+]
